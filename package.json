@@ -1,0 +1,14 @@
+{
+  "name": "teamworkpm",
+  "version": "0.1.0",
+  "description": "A nodejs wrapper for the teamworkpm api",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "teamworkpm"
+  ],
+  "author": "Arshad Chummun <arshad@chummun.com> (http://arshad.github.io/)",
+  "license": "MIT"
+}
