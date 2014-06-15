@@ -10,5 +10,8 @@
     "teamworkpm"
   ],
   "author": "Arshad Chummun <arshad@chummun.com> (http://arshad.github.io/)",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "request": "~2.36.0"
+  }
 }
