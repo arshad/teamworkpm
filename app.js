@@ -6,6 +6,6 @@ var keys = require('./keys')
 
 var app = new TeamworkPM(company, token);
 
-app.getAllTaskListsForProject(XXXXXX, function(error, response, body) {
+app.getTasklist(XXXXX, function(error, response, body) {
     console.log(body);
 })
